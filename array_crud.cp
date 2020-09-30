@@ -28,7 +28,7 @@ public:
 		for(i=0;i<size;i++)
 		{
 			if(a[i]==c)
-				break;
+				break; 
 		}
 		if(i==size)
 			cout<<c<<" Not found";
